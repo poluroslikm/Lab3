@@ -1,0 +1,8 @@
+﻿  FileName.c
+C:\Users\Poluroslik M\source\repos\Project5\FileName.c(17,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project5\FileName.c(18,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project5\FileName.c(19,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project5\FileName.c(20,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project5\FileName.c(21,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project5\FileName.c(22,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project5.vcxproj -> C:\Users\Poluroslik M\source\repos\Project5\x64\Debug\Project5.exe
